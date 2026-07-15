@@ -21,6 +21,7 @@ Currently Learning
 🚀 Projects
 - Fake News Detection using Machine Learning
 - Java Quiz App
+- Number guessing game 
 - working on new projects, soon it will be updated...
 
 📫 Connect with Me
