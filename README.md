@@ -17,6 +17,7 @@ Currently Learning
 - Network and Cybersecurity
 - Machine Learning
 - Quantum Computing
+- Machine Learning
 
 🚀 Projects
 - Fake News Detection using Machine Learning
@@ -25,6 +26,6 @@ Currently Learning
 - working on new projects, soon it will be updated...
 
 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/subhadip-p-5a849936679875687645/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqIHS1mM4RVWwcXDh5Qaj3Q%3D%3D
+- LinkedIn: https://www.linkedin.com/in/subhadip-pradhan1247
 - Email: subhadipmain1247@gmail.com
 
