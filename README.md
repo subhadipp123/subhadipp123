@@ -27,5 +27,5 @@ Currently Learning
 
 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/subhadip-pradhan1247
-- Email: subhadipmain1247@gmail.com
+- Email: pradhansanjib828@gmail.com
 
