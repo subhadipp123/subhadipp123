@@ -17,7 +17,6 @@ Currently Learning
 - Network and Cybersecurity
 - Machine Learning
 - Quantum Computing
-- Machine Learning
 
 🚀 Projects
 - Fake News Detection using Machine Learning
