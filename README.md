@@ -21,7 +21,8 @@ Currently Learning
 🚀 Projects
 - Fake News Detection using Machine Learning
 - Java Quiz App
-- Number guessing game 
+- Number guessing game
+- AcousticSpace : Deepfake detection via room impulse response
 - working on new projects, soon it will be updated...
 
 📫 Connect with Me
