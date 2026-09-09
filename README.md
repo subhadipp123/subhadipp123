@@ -8,8 +8,7 @@ Hi, I'm Subhadip Pradhan👋
 Technical Skills
 - Programming Languages: C, C++
 - Database: SQL
-- Core Subjects: Computer Networks, Cybersecurity
-- Operating Systems, DBMS
+- Core Subjects: Computer Networks, Cybersecurity, Operating Systems, DBMS
 - Operating Systems: Linux (basic command-line)
 - Email & Authentication: SMTP, POP3, IMAP, SPF, DMARC
 - Machine Learning: Theoretical Fundamentals
