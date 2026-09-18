@@ -15,7 +15,7 @@ Technical Skills
 - Tools: Git, GitHub, Visual Studio Code
 
 🚀 Projects
-- Java Quiz App
+- Quiz App
 - Number guessing game
 - AcousticSpace : Deepfake detection using acoustic analysis , CNN and AST
 - working on new projects, soon it will be updated...
