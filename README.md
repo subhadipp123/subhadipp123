@@ -10,7 +10,7 @@ technical knowledge, gain industry experience, and contribute effectively to inn
 Technical Skills
 - Programming Languages: C, C++, Python
 - Database: SQL,Relational Database Design
-- Core Subjects: Computer Networks, Cybersecurity, Operating Systems,DSA, OOP, DBMS
+- Core Subjects: Computer Networks, Cybersecurity, Operating Systems,DSA, OOP, DBMS, Cloud Computing
 - Operating Systems: Linux (basic command-line)
 - Email & Authentication: SMTP, POP3, IMAP, SPF, DKIM, DMARC
 - AI/ML: AI Fundamentals, Search Algorithms, Supervised and Unsupervised Machine Learning.
