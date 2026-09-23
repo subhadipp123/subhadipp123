@@ -2,7 +2,7 @@ Hi, I'm Subhadip Pradhan👋
 
 🎓 About Me
 
-Final-year Computer Science and Engineering student with foundational knowledge of C, C++, SQL and core CS subjects including Operating
+I am Final-year Computer Science and Engineering student with foundational knowledge of C, C++, SQL and core CS subjects including Operating
 Systems, Computer Networks, and Database Management Systems. Passionate about problem-solving and learning new technologies. Possesses
 strong analytical thinking, communication, and teamwork skills with experience in academic projects and continuous self-learning. Eager to apply
 technical knowledge, gain industry experience, and contribute effectively to innovative software and technology-driven solutions.
