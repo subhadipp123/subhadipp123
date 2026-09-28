@@ -16,10 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year Computer Science and Engineering student with foundational knowledge of **C, C++, SQL**, and core subjects including **Operating Systems, Computer Networks, and DBMS**.<br>
-I enjoy solving problems, learning new technologies, and applying technical concepts through academic and personal projects.<br>
-I bring analytical thinking, clear communication, and a collaborative approach to learning and teamwork.<br>
-I'm eager to gain industry experience and contribute to practical software solutions while continuing to grow as a software engineer.
+I'm a final-year Computer Science and Engineering student with foundational knowledge of **C, C++, SQL**, and core subjects including **Operating Systems, Computer Networks, and DBMS**. I enjoy solving problems, learning new technologies, and applying technical concepts through academic and personal projects. I bring analytical thinking, clear communication, and a collaborative approach to learning and teamwork. I'm eager to gain industry experience and contribute to practical software solutions while continuing to grow as a software engineer.
 
 ## 🛠️ Technical Skills
 
