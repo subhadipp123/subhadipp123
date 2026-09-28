@@ -114,7 +114,6 @@ An audio analysis project that classifies speech as **bonafide or spoof**, combi
 - Processes audio from the **ASVspoof 2019 Logical Access** dataset through loading, resampling, normalization, and padding or trimming.
 - Generates waveform and Mel-spectrogram visualizations, compares CNN and AST predictions, and highlights potentially suspicious audio segments.
 - Connects a FastAPI backend with a React interface and retains analysis history through a Docker Compose setup.
-- My contributions included audio data preparation, visualization, and feature extraction.
 
 **Project stack:** Python · PyTorch · Hugging Face Transformers · Librosa · FastAPI · React · Docker
 
