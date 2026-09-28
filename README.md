@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=3500&amp;pause=2200&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=75&amp;lines=Hi%2C+I+am+Subhadip+Pradhan" alt="Hi, I am Subhadip Pradhan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=3500&amp;pause=2200&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=75&amp;lines=Hi%2C+I+am+Subhadip+Pradhan" alt="Hi, I am Subhadip Pradhan 😊👋" />
 </p>
 
 <p align="center">
