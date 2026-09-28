@@ -45,7 +45,7 @@ I'm a final-year Computer Science and Engineering student with foundational know
 | Subject | Topics |
 | :--- | :--- |
 | **Computer Networks** | Seven OSI layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application; TCP/IP model; IPv4 addressing, subnetting, supernetting, and CIDR; TCP and UDP; flow control, error control, congestion control, and sliding-window protocols; error detection and correction; routing and switching; DNS, DHCP, ARP, HTTP, and HTTPS. |
-| **Operating Systems** | Processes and threads; process states and context switching; CPU scheduling algorithms; inter-process communication; synchronization, critical sections, mutexes, and semaphores; deadlock prevention, avoidance, detection, and recovery; memory management, paging, segmentation, virtual memory, and page replacement; file systems, disk scheduling, and I/O management. |
+| **Operating Systems** | Processes and threads; process states and context switching; CPU scheduling algorithms; inter-process communication; synchronization, critical sections, mutexes, and semaphores; deadlock prevention, avoidance, detection, and recovery; memory management, paging, segmentation, virtual memory, and page replacement; file systems, disk scheduling. |
 | **Database Management Systems** | Functional dependencies and attribute closure; super, candidate, primary, alternate, foreign, and composite keys; normalization through BCNF and decomposition; ER diagrams and relational mapping; relational algebra; SQL queries, joins, subqueries, aggregation, GROUP BY, and HAVING; integrity constraints; ACID properties, transactions, serializability, and concurrency control; locking, indexing, and B/B+ tree concepts. |
 | **Cybersecurity** | CIA triad, authentication, authorization, and non-repudiation; threats, vulnerabilities, risks, and attack vectors; active and passive attacks; IP/email spoofing, ARP/DNS poisoning, phishing, social engineering, malware, man-in-the-middle, replay, and DoS/DDoS attacks; causes, impacts, and prevention; encryption, hashing, digital signatures, firewalls, IDS/IPS, and network security principles. |
 | **Cloud Computing** | IaaS, PaaS, and SaaS; public, private, and hybrid cloud models; virtualization and virtual machines; containers and Docker; images, containers, volumes, and container networking; scalability, elasticity, resource provisioning, load balancing, availability, and shared responsibility. |
@@ -64,21 +64,18 @@ I'm a final-year Computer Science and Engineering student with foundational know
 | **AI Fundamentals** | Intelligent agents, state-space representation, problem formulation, search strategies, and AI problem-solving. |
 | **Uninformed Search** | Breadth-First Search (**BFS**), Depth-First Search (**DFS**), and Iterative Deepening Depth-First Search (**IDDFS**). |
 | **Heuristic & Local Search** | Heuristic functions, **A\***, **AO\***, greedy best-first search, hill climbing, and steepest-ascent hill climbing; search traces and problem-solving applications. |
-| **Supervised Learning** | Classification and regression; linear and logistic regression, k-nearest neighbors, decision trees, random forests, Naive Bayes, and support vector machines. |
-| **Unsupervised Learning** | Clustering with K-means, hierarchical clustering, and DBSCAN; dimensionality reduction with Principal Component Analysis (**PCA**). |
+| **Supervised Learning** | Classification and regression; linear and logistic regression, k-nearest neighbors, decision trees, Naive Bayes. |
+| **Unsupervised Learning** | Clustering with K-means, hierarchical clustering, and DBSCAN. |
 | **ML Workflow & Evaluation** | Data preprocessing, feature preparation, train/test splits, overfitting and underfitting, confusion matrices, accuracy, precision, recall, and F1 score. |
-| **Project Exposure** | Audio preprocessing, waveform and Mel-spectrogram visualization, feature extraction, CNNs, and Audio Spectrogram Transformers (**AST**) for deepfake detection. |
 
 ### Tools & Platforms
 
 | Tool / Platform | Use |
 | :--- | :--- |
-| **Git & GitHub** | Version control, staging and committing changes, pushing code, repository management, and Markdown documentation. |
+| **Git & GitHub** | Version control, staging and committing changes, pushing code, repository management. |
 | **Visual Studio Code** | Code editing, project organization, integrated terminal, compilation, and running applications. |
 | **PostgreSQL** | Relational schema design, SQL queries, table relationships, and database constraints. |
 | **Linux** | Basic command-line navigation, file and directory operations, and working in a terminal. |
-| **Docker & Docker Compose** | Container concepts and project experience running application services in containers. |
-| **NumPy, pandas & Matplotlib** | Project experience with numerical data, data preparation, and visualization. |
 | **MS Word, Excel & PowerPoint** | Reports, tabular information, project documentation, and presentations. |
 | **Canva** | Presentation design, visual layouts, and project graphics. |
 
