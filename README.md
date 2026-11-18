@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=6500&amp;pause=3000&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=75&amp;lines=Hi%2C+I+am+Subhadip+Pradhan" alt="Hi, I am Subhadip Pradhan 👋" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6500&pause=3000&color=2F81F7&center=true&vCenter=true&width=720&height=75&lines=Hi%2C+I+am+Subhadip+Pradhan" alt="Hi, I am Subhadip Pradhan 👋" />
 </p>
 
 <p align="center">
@@ -38,26 +39,15 @@ I'm a final-year Computer Science and Engineering student with foundational know
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="44" height="44" alt="Canva" title="Canva" />
 </p>
 
-### Programming Languages
-**C · C++ · Python · Java**
-
-### Core Computer Science
-**Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks**
-
-### Libraries & Frameworks
-**NumPy · Pandas · Matplotlib · PyTorch · FastAPI**
-
-### Backend & Database
-**REST APIs · SQL · PostgreSQL · RDBMS**
-
-### Software Engineering
-**SDLC · Agile · Scrum**
-
-### Cloud & DevOps
-**AWS · CI/CD · Jenkins · Docker**
-
-### Tools & Platforms
-**Git · GitHub · Visual Studio Code · MS Office · MS Excel · Canva**
+| Category | Skills |
+| :--- | :--- |
+| **Programming Languages** | C · C++ · Python · Java |
+| **Core Computer Science** | Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks |
+| **Libraries & Frameworks** | NumPy · Pandas · Matplotlib · PyTorch · FastAPI |
+| **Backend & Database** | REST APIs · SQL · PostgreSQL · RDBMS |
+| **Software Engineering** | SDLC · Agile · Scrum |
+| **Cloud & DevOps** | AWS · CI/CD · Jenkins · Docker |
+| **Tools & Platforms** | Git · GitHub · Visual Studio Code · MS Office · MS Excel · Canva |
 
 ## 🚀 Projects
 
@@ -113,9 +103,9 @@ An audio analysis project that classifies speech as **bonafide or spoof**, combi
 | Certificate / Course | Institution | Platform / Year |
 | :--- | :--- | :--- |
 | **Decode C++ with DSA** | PW Skills | 2026 |
-| **Machine Learning** | IBM | Coursera(2026) |
-| **Wind Energy Course Certificate** | Technical University of Denmark (DTU) | Coursera(2026) |
-| **Health Systems Development Specialization Certificate** | Imperial College London | Coursera(2025) |
+| **Machine Learning** | IBM | Coursera (2026) |
+| **Wind Energy Course Certificate** | Technical University of Denmark (DTU) | Coursera (2026) |
+| **Health Systems Development Specialization Certificate** | Imperial College London | Coursera (2025) |
 
 ## 🤝 Soft Skills
 
